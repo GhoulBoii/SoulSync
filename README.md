@@ -199,7 +199,7 @@ Before configuring SoulSync, you'll need to obtain API credentials from Spotify 
 4. Fill in the required information:
    - **App name**: "SoulSync" (or any name you prefer)
    - **App description**: "Music library sync application"
-   - **Redirect URI**: `http://localhost:8888/callback` (or leave blank)
+   - **Redirect URI**: `https://localhost:8888/callback`
    - Check the boxes to agree to the Terms of Service
 5. Click "Save"
 
