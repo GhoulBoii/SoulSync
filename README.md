@@ -157,7 +157,7 @@ docker run -d \
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Nezreka/SoulSync
-   cd soulsync-app
+   cd SoulSync
    ```
 
 2. **Install dependencies**:
